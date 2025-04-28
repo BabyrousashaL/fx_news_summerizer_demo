@@ -25,7 +25,7 @@ path = r'E:\AI Lab\数据封禁线索\线索归档\Fox_Articles'
 """时间参数"""
 days = 1
 """大模型参数"""
-zhipuai_api_key = "2e261679169b97bdd7d3b35da0d2d3cb.V64QVNdhlKMcR6Er"
+zhipuai_api_key = ""
 model = "glm-4-flash"
 base = "https://open.bigmodel.cn/api/paas/v4/"
 llm= ChatOpenAI(
